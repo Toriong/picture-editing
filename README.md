@@ -10,6 +10,10 @@ $ source venv/bin/activate
 
 (venv) $ python -m pip install Pillow
 
+
+
+
+
 Further resources:
 
   -Official documentation: https://pillow.readthedocs.io/en/stable/
