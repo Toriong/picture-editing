@@ -5,7 +5,9 @@ Your terminal must be in a virtual environment first to manipulate your pictures
 Enter the following in the command line to start the virtual environment:
 
 $ python -m venv venv
+
 $ source venv/bin/activate
+
 (venv) $ python -m pip install Pillow
 
 Further resources:
