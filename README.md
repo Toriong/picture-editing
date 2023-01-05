@@ -11,4 +11,5 @@ $ source venv/bin/activate
 Further resources:
 
   -Official documentation: https://pillow.readthedocs.io/en/stable/
+  
   -Helpful article: https://realpython.com/image-processing-with-the-python-pillow-library/
